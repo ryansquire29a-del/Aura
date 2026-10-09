@@ -1,0 +1,8 @@
+{
+  "name": "Aura Companionship - Elite Intimacy & Operational Platform",
+  "description": "Curated intimacy and sophisticated companionship for the discerning woman. High-end client portal, confidential screening, rate calculator, safety buddy system, and Adelaide luxury guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
